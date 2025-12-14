@@ -1,0 +1,27 @@
+{
+  "name": "solidweb",
+  "version": "0.1.0",
+  "description": "Decentralized website hosting on Ethereum",
+  "scripts": {
+    
+  },
+  "dependencies": {
+    "viem": "^2.0.0",
+    "hono": "^3.0.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@types/node": "^20.0.0",
+    "hardhat": "^2.19.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "web3",
+    "hosting",
+    "decentralized"
+  ],
+  "license": "MIT"
+}
